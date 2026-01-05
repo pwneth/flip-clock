@@ -1,0 +1,7 @@
+{
+  "name": "Flip Clock",
+  "description": "A sophisticated retro flip clock featuring a realistic 3D mechanical flip animation and AI-powered mindful insights based on the current time of day.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
